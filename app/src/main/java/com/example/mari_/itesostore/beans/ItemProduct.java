@@ -127,8 +127,5 @@ public class ItemProduct implements Parcelable{
         dest.writeString(phone);
         dest.writeString(description);
     }
-
-
-
 }
 

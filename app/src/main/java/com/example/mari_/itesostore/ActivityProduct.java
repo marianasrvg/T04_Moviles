@@ -3,7 +3,6 @@ package com.example.mari_.itesostore;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.Parcelable;
 import android.support.annotation.Nullable;
 import android.view.View;
 import android.widget.Button;
